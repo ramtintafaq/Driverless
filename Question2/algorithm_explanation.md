@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/9b3633cd-00e9-4258-a189-0a0ef870c466)
 # Algorithm Explanation
 
 First, I connect all the obstacles (cones) together with straight lines, as shown in the figure, to define the boundaries that the car must not cross. These boundaries are represented by the black lines.
@@ -11,4 +11,5 @@ To smooth the path, I find the middle points between the purple points and conne
 
 Finally, starting from the red dot (the car's starting position), the car follows the red line step by step, moving toward the orange lines, ensuring that it avoids all obstacles and stays within the boundaries.
 
-![Algorithm Path](image.png)
+![image](https://github.com/user-attachments/assets/e22c291a-1725-4d32-976e-abfd70e7a157)
+
