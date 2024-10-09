@@ -1,8 +1,7 @@
 #include <iostream>
-using namespace std;
-
 #include<cmath>
 #include<vector>
+
 
 using namespace std;
 struct Coordinates {
