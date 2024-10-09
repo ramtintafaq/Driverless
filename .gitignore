@@ -1,0 +1,10 @@
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore build directories
+cmake-build-debug/
+
+# Ignore macOS-specific files
+.DS_Store
+
